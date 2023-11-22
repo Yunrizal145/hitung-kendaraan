@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
-import { imgMotor, imgMobil } from "../../assets";
+import imgMotor from "../../assets/images/motor.png";
+import imgMobil from "../../assets/images/mobil.png";
 
 const HomePage = () => {
 	const [motor, setMotor] = useState(0);

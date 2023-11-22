@@ -1,4 +1,7 @@
-import { Logo1, Logo2, Logo3, Logo4 } from "../../assets";
+import Logo1 from "../../assets/images/logo-bapenda.png";
+import Logo2 from "../../assets/images/logo-bjb.png";
+import Logo3 from "../../assets/images/logo-samsat.png";
+import Logo4 from "../../assets/images/logo-jabar.png";
 
 const Header = () => {
 	return (
